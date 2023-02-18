@@ -5,9 +5,9 @@
 * 
 *  Name: Bhavya Kalra ID: 170461214 Date: 17 February 2023
 
-github link : 
+github link : https://github.com/bhavyak988/web322-ap
 
-* cyclic link - 
+* cyclic link - https://helpful-pink-gosling.cyclic.app
 ********************************************************************************/
 const path = require("path");
 const express = require("express");
